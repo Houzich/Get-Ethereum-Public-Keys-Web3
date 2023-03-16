@@ -1,0 +1,88 @@
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 89dbeeaefe1847c085a3eabc7794fa47"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":42,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.6.254.113\",\"port\":443}, url=\"https://mainnet.infura.io/v3/89dbeeaefe1847c085a3eabc7794fa47\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 89dbeeaefe1847c085a3eabc7794fa47"}
+{"level":"info","message":"Общее количество соединений 112"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: ff49fc5d6a654d2fad397b69912d4e3e"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":43,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.6.254.113\",\"port\":443}, url=\"https://mainnet.infura.io/v3/ff49fc5d6a654d2fad397b69912d4e3e\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID ff49fc5d6a654d2fad397b69912d4e3e"}
+{"level":"info","message":"Общее количество соединений 108"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 5b34306b94414c55a0779ae253f80b6f"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":44,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.6.254.113\",\"port\":443}, url=\"https://mainnet.infura.io/v3/5b34306b94414c55a0779ae253f80b6f\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 5b34306b94414c55a0779ae253f80b6f"}
+{"level":"info","message":"Общее количество соединений 104"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: aae42c0e49f84fe7b90fdcdd0986acb8"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":45,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.201.153.218\",\"port\":443}, url=\"https://mainnet.infura.io/v3/aae42c0e49f84fe7b90fdcdd0986acb8\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID aae42c0e49f84fe7b90fdcdd0986acb8"}
+{"level":"info","message":"Общее количество соединений 100"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: fd5e7ae90b3a4bf5968fb909257fff40"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":46,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.201.153.218\",\"port\":443}, url=\"https://mainnet.infura.io/v3/fd5e7ae90b3a4bf5968fb909257fff40\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID fd5e7ae90b3a4bf5968fb909257fff40"}
+{"level":"info","message":"Общее количество соединений 96"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 8b5d96ae74ec43059b32740f7ccfe595"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":47,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.201.153.218\",\"port\":443}, url=\"https://mainnet.infura.io/v3/8b5d96ae74ec43059b32740f7ccfe595\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 8b5d96ae74ec43059b32740f7ccfe595"}
+{"level":"info","message":"Общее количество соединений 92"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 3258e142b54447a89b8c002ee7465a6d"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":48,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"3.215.173.124\",\"port\":443}, url=\"https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 3258e142b54447a89b8c002ee7465a6d"}
+{"level":"info","message":"Общее количество соединений 88"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: a1743f084f8a46bfb3696389eeb9f217"}
+{"level":"error","message":"Message: missing response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":49,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", serverError={\"errno\":-4079,\"code\":\"ECONNABORTED\",\"syscall\":\"connect\",\"address\":\"3.215.173.124\",\"port\":443}, url=\"https://mainnet.infura.io/v3/a1743f084f8a46bfb3696389eeb9f217\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID a1743f084f8a46bfb3696389eeb9f217"}
+{"level":"info","message":"Общее количество соединений 84"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: e2da43769d694713b61702628ef124da"}
+{"level":"error","message":"Message: failed response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":42,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", url=\"https://mainnet.infura.io/v3/e2da43769d694713b61702628ef124da\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID e2da43769d694713b61702628ef124da"}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 9db80c814ba04b51a0b79d439a3420e0"}
+{"level":"error","message":"Message: failed response (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":43,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", url=\"https://mainnet.infura.io/v3/9db80c814ba04b51a0b79d439a3420e0\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 9db80c814ba04b51a0b79d439a3420e0"}
+{"level":"info","message":"Общее количество соединений 112"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 3258e142b54447a89b8c002ee7465a6d"}
+{"level":"error","message":"Message: timeout (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":44,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", timeout=120000, url=\"https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d\", code=TIMEOUT, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 3258e142b54447a89b8c002ee7465a6d"}
+{"level":"info","message":"Общее количество соединений 108"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan Key: WGWHHAU4F2Y58UW5FQWTUJWSXBNHU7WBSX"}
+{"level":"error","message":"Message: missing response (requestBody=null, requestMethod=\"GET\", serverError={\"errno\":-4039,\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"217.79.243.34\",\"port\":443}, url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=WGWHHAU4F2Y58UW5FQWTUJWSXBNHU7WBSX\", code=SERVER_ERROR, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ключем WGWHHAU4F2Y58UW5FQWTUJWSXBNHU7WBSX"}
+{"level":"info","message":"Общее количество соединений 112"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 6:57:31 PM"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 108"}
+{"level":"error","message":"Ошибка подключения к провайдеру Infura ID: 208c93f945a3495ebb9f42516bf63ad0"}
+{"level":"error","message":"Message: timeout (requestBody=\"{\\\"method\\\":\\\"eth_blockNumber\\\",\\\"params\\\":[],\\\"id\\\":42,\\\"jsonrpc\\\":\\\"2.0\\\"}\", requestMethod=\"POST\", timeout=120000, url=\"https://mainnet.infura.io/v3/208c93f945a3495ebb9f42516bf63ad0\", code=TIMEOUT, version=web/5.7.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ID 208c93f945a3495ebb9f42516bf63ad0"}
+{"level":"info","message":"Общее количество соединений 104"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 112"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 7:08:47 PM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getTransaction(0x83510fff4d7c2a05632a5af40ad71e954f6eca2addb01ba926914f8d40ee4039): timeout, ID KEY: fd5e7ae90b3a4bf5968fb909257fff40"}
+{"level":"warn","message":"WRONG RESPONSE getTransaction(0x83510fff4d7c2a05632a5af40ad71e954f6eca2addb01ba926914f8d40ee4039): failed response, ID KEY: fd5e7ae90b3a4bf5968fb909257fff40"}
+{"level":"info","message":"Всего обработано 9 аккаунтов и 2,032 транзакций. Время запроса: 295.835"}
+{"level":"info","message":"Сохранили 8 строк в finded.csv и 1 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"warn","message":"\n"}
+{"level":"info","message":"******************* ОБРАБОТАЛИ ВСЕ АДРЕСА УСПЕШНО!! ********************"}
+{"level":"info","message":"******************* ОБРАБОТАЛИ ВСЕ АДРЕСА УСПЕШНО!! ********************"}
+{"level":"info","message":"******************* ОБРАБОТАЛИ ВСЕ АДРЕСА УСПЕШНО!! ********************"}
+{"level":"info","message":"End Time: 7:13:42 PM"}

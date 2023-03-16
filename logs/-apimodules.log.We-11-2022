@@ -1,0 +1,195 @@
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 119"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 118"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Too many invalid api key attempts, please try again later\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Too many invalid api key attempts, please try again later\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 117"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Too many invalid api key attempts, please try again later\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Too many invalid api key attempts, please try again later\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: UHNUNHRQANAT91UU3WISRBIS4BR2THNCHG"}
+{"level":"error","message":"Message: missing response (requestBody=null, requestMethod=\"GET\", serverError={\"errno\":-4077,\"code\":\"ECONNRESET\",\"syscall\":\"read\"}, url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=UHNUNHRQANAT91UU3WISRBIS4BR2THNCHG\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 115"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 10:56:05 AM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_16): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: AEQ3BNUI9Y75SRCW5QETTN98JIKC4T6R91"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_32): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: KXXM4TZ8ZI26MYWPUXTFEZZ5FAFBEJN46W"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_15): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 119"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan ID: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем это соединение"}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 11:12:43 AM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_31): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: NPCSMNCKMP1VUNEKTTCYXMYT7UCNUFWYZR"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_14): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: 8YEHP7JBGSKZGT8DZV6K1XFGYN6TDDHZD1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_15): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"info","message":"Всего обработано 116 аккаунтов и 88,996 транзакций. Время запроса: 91.31"}
+{"level":"info","message":"Отчистили файлы finded.csv, no_out_trans.csv, wallet_err.csv"}
+{"level":"info","message":"Сохранили 71 строк в finded.csv и 41 строк в no_out_trans.csv и 4 строк в wallet_err.csv"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x1aa27699caDa8DC3A76F7933AA66C71919040E88,etherscan_43): invalid hash: 0xGENESIS_1aa27699cada8dc3a76f7933aa66c71919040e88, ID KEY: UHNUNHRQANAT91UU3WISRBIS4BR2THNCHG"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xB11fa7Fb270AbCdF5a2eab95AA30c4B53636EfBf,etherscan_98): invalid hash: 0xGENESIS_b11fa7fb270abcdf5a2eab95aa30c4b53636efbf, ID KEY: 2DD3UTR872V5QCTW5HHTCHHNCJFDPP8QIW"}
+{"level":"info","message":"Всего обработано 232 аккаунтов и 138,934 транзакций. Время запроса: 43.697"}
+{"level":"info","message":"Сохранили 65 строк в finded.csv и 49 строк в no_out_trans.csv и 2 строк в wallet_err.csv"}
+{"level":"info","message":"Всего обработано 348 аккаунтов и 174,382 транзакций. Время запроса: 29.347"}
+{"level":"info","message":"Сохранили 77 строк в finded.csv и 39 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 120"}
+{"level":"error","message":"Ошибка подключения к провайдеру Etherscan Key: ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"error","message":"Message: processing response error (body=\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\", error={\"result\":\"{\\\"status\\\":\\\"0\\\",\\\"message\\\":\\\"NOTOK\\\",\\\"result\\\":\\\"Invalid API Key\\\"}\"}, requestBody=null, requestMethod=\"GET\", url=\"https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM\", code=SERVER_ERROR, version=web/5.6.1)"}
+{"level":"error","message":"Удаляем соединения связанные c ключем ZU68GCEHMZ2Q5R5S543QGSTN1B1BWHTNYM"}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 11:18:48 AM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_15): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_31): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: NPCSMNCKMP1VUNEKTTCYXMYT7UCNUFWYZR"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_14): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: 8YEHP7JBGSKZGT8DZV6K1XFGYN6TDDHZD1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"info","message":"Всего обработано 116 аккаунтов и 88,996 транзакций. Время запроса: 82.759"}
+{"level":"info","message":"Отчистили файлы finded.csv, no_out_trans.csv, wallet_err.csv"}
+{"level":"info","message":"Сохранили 71 строк в finded.csv и 41 строк в no_out_trans.csv и 4 строк в wallet_err.csv"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x1aa27699caDa8DC3A76F7933AA66C71919040E88,etherscan_43): invalid hash: 0xGENESIS_1aa27699cada8dc3a76f7933aa66c71919040e88, ID KEY: UHNUNHRQANAT91UU3WISRBIS4BR2THNCHG"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xB11fa7Fb270AbCdF5a2eab95AA30c4B53636EfBf,etherscan_98): invalid hash: 0xGENESIS_b11fa7fb270abcdf5a2eab95aa30c4b53636efbf, ID KEY: 2DD3UTR872V5QCTW5HHTCHHNCJFDPP8QIW"}
+{"level":"info","message":"Всего обработано 232 аккаунтов и 138,934 транзакций. Время запроса: 38.939"}
+{"level":"info","message":"Сохранили 65 строк в finded.csv и 49 строк в no_out_trans.csv и 2 строк в wallet_err.csv"}
+{"level":"info","message":"Всего обработано 348 аккаунтов и 174,382 транзакций. Время запроса: 42.455"}
+{"level":"info","message":"Сохранили 77 строк в finded.csv и 39 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"info","message":"Всего обработано 464 аккаунтов и 196,780 транзакций. Время запроса: 16.53"}
+{"level":"info","message":"Сохранили 75 строк в finded.csv и 41 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"info","message":"Всего обработано 580 аккаунтов и 247,495 транзакций. Время запроса: 116.243"}
+{"level":"info","message":"Сохранили 72 строк в finded.csv и 44 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"info","message":"Всего обработано 696 аккаунтов и 266,015 транзакций. Время запроса: 21.654"}
+{"level":"info","message":"Сохранили 80 строк в finded.csv и 36 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"info","message":"Всего обработано 812 аккаунтов и 306,421 транзакций. Время запроса: 49.437"}
+{"level":"info","message":"Сохранили 78 строк в finded.csv и 38 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"warn","message":"WRONG RESPONSE getTransaction(0x1a61ab0a36a91d9281af62fa5ec7079b04b9cda021fe689d3a53191278c41267): timeout, ID KEY: 3258e142b54447a89b8c002ee7465a6d"}
+{"level":"info","message":"Всего обработано 928 аккаунтов и 332,591 транзакций. Время запроса: 123.226"}
+{"level":"info","message":"Сохранили 73 строк в finded.csv и 43 строк в no_out_trans.csv и 0 строк в wallet_err.csv"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 12:46:46 PM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_14): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: 8YEHP7JBGSKZGT8DZV6K1XFGYN6TDDHZD1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_30): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: NPCSMNCKMP1VUNEKTTCYXMYT7UCNUFWYZR"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_15): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 1:39:29 PM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_14): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: 8YEHP7JBGSKZGT8DZV6K1XFGYN6TDDHZD1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_30): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: NPCSMNCKMP1VUNEKTTCYXMYT7UCNUFWYZR"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_15): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 2:12:55 PM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_15): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_30): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: NPCSMNCKMP1VUNEKTTCYXMYT7UCNUFWYZR"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_14): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: 8YEHP7JBGSKZGT8DZV6K1XFGYN6TDDHZD1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"info","message":"Done!"}
+{"level":"info","message":"Аккаунты успешно загружены."}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К INFURA (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) *******************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧАЕМСЯ К ETHERSCAN (МОЖЕТ ЗАНЯТЬ НЕСКОЛЬКО МИНУТ) ****************"}
+{"level":"warn","message":"....."}
+{"level":"info","message":"Общее количество соединений 116"}
+{"level":"info","message":"******************* ПОДКЛЮЧИЛИСЬ УСПЕШНО! ********************\n"}
+{"level":"info","message":"Start Time: 2:13:57 PM"}
+{"level":"warn","message":"....."}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x9374869D4a9911ee1eAf558Bc4c2b63Ec63acFdD,etherscan_30): invalid hash: 0xGENESIS_9374869d4a9911ee1eaf558bc4c2b63ec63acfdd, ID KEY: NPCSMNCKMP1VUNEKTTCYXMYT7UCNUFWYZR"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x46C1Aa2244b9C8A957cA8FAc431B0595a3b86824,etherscan_12): invalid hash: 0xGENESIS_46c1aa2244b9c8a957ca8fac431b0595a3b86824, ID KEY: 2WFAAHGVRVJIEFT9IJC8ENS6Z36AB8X5D1"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xE20BB9f3966419E14BbbaAaa6789e92496CFA479,etherscan_15): invalid hash: 0xGENESIS_e20bb9f3966419e14bbbaaaa6789e92496cfa479, ID KEY: S99FHYV5YSBW5KKU4N4AUMR4CBNRZ9FRG5"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x637F5869D6e4695f0Eb9E27311C4878AFf333380,etherscan_14): invalid hash: 0xGENESIS_637f5869d6e4695f0eb9e27311c4878aff333380, ID KEY: 8YEHP7JBGSKZGT8DZV6K1XFGYN6TDDHZD1"}
+{"level":"info","message":"Всего обработано 116 аккаунтов и 88,996 транзакций. Время запроса: 71.249"}
+{"level":"info","message":"Отчистили файлы finded.csv, no_out_trans.csv, wallet_err.csv"}
+{"level":"info","message":"Сохранили 71 строк в finded.csv и 41 строк в no_out_trans.csv и 4 строк в wallet_err.csv"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0x1aa27699caDa8DC3A76F7933AA66C71919040E88,etherscan_42): invalid hash: 0xGENESIS_1aa27699cada8dc3a76f7933aa66c71919040e88, ID KEY: UHNUNHRQANAT91UU3WISRBIS4BR2THNCHG"}
+{"level":"warn","message":"WRONG RESPONSE getHistory(0xB11fa7Fb270AbCdF5a2eab95AA30c4B53636EfBf,etherscan_95): invalid hash: 0xGENESIS_b11fa7fb270abcdf5a2eab95aa30c4b53636efbf, ID KEY: 2DD3UTR872V5QCTW5HHTCHHNCJFDPP8QIW"}
+{"level":"info","message":"Всего обработано 232 аккаунтов и 138,936 транзакций. Время запроса: 38.07"}
+{"level":"info","message":"Сохранили 65 строк в finded.csv и 49 строк в no_out_trans.csv и 2 строк в wallet_err.csv"}
