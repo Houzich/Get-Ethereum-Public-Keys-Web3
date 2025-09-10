@@ -8,3 +8,4 @@ export default function defaults(a, b, c) {
     }
     return c;
 }
+

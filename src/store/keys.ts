@@ -16,3 +16,4 @@ export const INFURA_KEY_LIST = [
     ['7a122e147c034cd49a4975ae8878655b', 'e674ba0fd9dd4a78b50ed333a3198c64', '97c8bf358b9942a9853fab1ba93dc5b3', '1c71753252df499cab6273d110ab7e52']
 ]
 
+

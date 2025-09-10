@@ -18,3 +18,4 @@ addParseToken('X', function (input, array, config) {
 addParseToken('x', function (input, array, config) {
     config._d = new Date(toInt(input));
 });
+
