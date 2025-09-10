@@ -169,3 +169,4 @@ export default class DispetcherPubKeys extends Interface {
         this.snifferPubKeys(accounts)
     }
 }
+

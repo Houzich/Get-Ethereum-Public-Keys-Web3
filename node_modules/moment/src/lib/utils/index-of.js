@@ -16,3 +16,4 @@ if (Array.prototype.indexOf) {
 }
 
 export { indexOf as default };
+
