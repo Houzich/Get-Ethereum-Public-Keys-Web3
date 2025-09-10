@@ -27,3 +27,4 @@ addParseToken(['m', 'mm'], MINUTE);
 // MOMENTS
 
 export var getSetMinute = makeGetSet('Minutes', false);
+

@@ -10,3 +10,4 @@ export default function toInt(argumentForCoercion) {
 
     return value;
 }
+
