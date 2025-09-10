@@ -17,3 +17,4 @@ export default function extend(a, b) {
 
     return a;
 }
+

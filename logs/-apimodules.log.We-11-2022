@@ -193,3 +193,4 @@
 {"level":"warn","message":"WRONG RESPONSE getHistory(0xB11fa7Fb270AbCdF5a2eab95AA30c4B53636EfBf,etherscan_95): invalid hash: 0xGENESIS_b11fa7fb270abcdf5a2eab95aa30c4b53636efbf, ID KEY: 2DD3UTR872V5QCTW5HHTCHHNCJFDPP8QIW"}
 {"level":"info","message":"Всего обработано 232 аккаунтов и 138,936 транзакций. Время запроса: 38.07"}
 {"level":"info","message":"Сохранили 65 строк в finded.csv и 49 строк в no_out_trans.csv и 2 строк в wallet_err.csv"}
+
