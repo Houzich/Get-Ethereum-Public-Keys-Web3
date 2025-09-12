@@ -194,3 +194,4 @@
 {"level":"info","message":"Всего обработано 232 аккаунтов и 138,936 транзакций. Время запроса: 38.07"}
 {"level":"info","message":"Сохранили 65 строк в finded.csv и 49 строк в no_out_trans.csv и 2 строк в wallet_err.csv"}
 
+
